@@ -1,4 +1,6 @@
 {
     "New trigger.json": 0, 
-    "UI.folder": 1
+    "UI.folder": 1, 
+    "新建触发器.json": 3, 
+    "最近导入_触发器.folder": 2
 }

@@ -1,1 +1,13 @@
-{}
+{
+    "ability_all": [
+        "\u7269\u54c1\u6280\u80fd"
+    ], 
+    "editor_unit": [
+        "\u6cd5\u5e08", 
+        "\u8fdc\u7a0b", 
+        "\u8303\u56f4\u4f24\u5bb3", 
+        "\u6cbb\u7597", 
+        "\u4f4d\u79fb", 
+        "\u4e2d\u8def\u53d1\u80b2"
+    ]
+}
