@@ -1,12 +1,22 @@
 {
     "variable_dict": {
+        "BOOLEAN": {
+            "\u5e78\u5b58\u8005_\u81ea\u52a8\u5347\u7ea7\u662f\u5426\u5f00\u542f": false, 
+            "\u5e78\u5b58\u8005_\u81ea\u52a8\u5347\u7ea7\u662f\u5426\u5f00\u542f_2": false
+        }, 
         "INTEGER": {
-            "GLOBAL_BAG_MAX_NUM": 0
+            "GLOBAL_BAG_MAX_NUM": 0, 
+            "\u5e78\u5b58\u8005_\u5347\u7ea7\u9009\u62e9\u96c6\u5408": 0, 
+            "\u5e78\u5b58\u8005_\u5347\u7ea7\u9009\u62e9\u96c6\u5408_2": 0, 
+            "\u5e78\u5b58\u8005_\u7ecf\u9a8c\u9053\u5177\u6570\u91cf": 0
         }, 
         "TABLE": {
             "UI_Manager": null
         }, 
-        "UNIT_ENTITY": {}, 
+        "UNIT_ENTITY": {
+            "\u5e78\u5b58\u8005_\u4e3b\u63a7\u5355\u4f4d": null, 
+            "\u5e78\u5b58\u8005_\u4e3b\u63a7\u5355\u4f4d_2": null
+        }, 
         "UNIT_NAME": {}
     }, 
     "variable_group_info": [
@@ -23,10 +33,72 @@
                 "GLOBAL_BAG_MAX_NUM", 
                 "GLOBAL_BAG_MAX_NUM"
             ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5e78\u5b58\u8005_\u7ecf\u9a8c\u9053\u5177\u6570\u91cf", 
+                "\u5e78\u5b58\u8005_\u7ecf\u9a8c\u9053\u5177\u6570\u91cf"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5e78\u5b58\u8005_\u81ea\u52a8\u5347\u7ea7\u662f\u5426\u5f00\u542f", 
+                "\u5e78\u5b58\u8005_\u81ea\u52a8\u5347\u7ea7\u662f\u5426\u5f00\u542f"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5e78\u5b58\u8005_\u4e3b\u63a7\u5355\u4f4d", 
+                "\u5e78\u5b58\u8005_\u4e3b\u63a7\u5355\u4f4d"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5e78\u5b58\u8005_\u5347\u7ea7\u9009\u62e9\u96c6\u5408", 
+                "\u5e78\u5b58\u8005_\u5347\u7ea7\u9009\u62e9\u96c6\u5408"
+            ]
+        }, 
+        {
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u5e78\u5b58\u8005_\u81ea\u52a8\u5347\u7ea7\u662f\u5426\u5f00\u542f_2", 
+                        "\u5e78\u5b58\u8005_\u81ea\u52a8\u5347\u7ea7\u662f\u5426\u5f00\u542f_2"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u5e78\u5b58\u8005_\u4e3b\u63a7\u5355\u4f4d_2", 
+                        "\u5e78\u5b58\u8005_\u4e3b\u63a7\u5355\u4f4d_2"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u5e78\u5b58\u8005_\u5347\u7ea7\u9009\u62e9\u96c6\u5408_2", 
+                        "\u5e78\u5b58\u8005_\u5347\u7ea7\u9009\u62e9\u96c6\u5408_2"
+                    ]
+                }
+            ], 
+            "key": "qxGa7nG-Ee+4osGb0RDyc5", 
+            "name": "\u6700\u8fd1\u5bfc\u5165_\u5168\u5c40\u53d8\u91cf"
         }
     ], 
     "variable_length_dict": {
         "GLOBAL_BAG_MAX_NUM": 0, 
-        "UI_Manager": 0
+        "UI_Manager": 0, 
+        "\u5e78\u5b58\u8005_\u4e3b\u63a7\u5355\u4f4d": 0, 
+        "\u5e78\u5b58\u8005_\u4e3b\u63a7\u5355\u4f4d_2": 0, 
+        "\u5e78\u5b58\u8005_\u5347\u7ea7\u9009\u62e9\u96c6\u5408": 10, 
+        "\u5e78\u5b58\u8005_\u5347\u7ea7\u9009\u62e9\u96c6\u5408_2": 10, 
+        "\u5e78\u5b58\u8005_\u7ecf\u9a8c\u9053\u5177\u6570\u91cf": 0, 
+        "\u5e78\u5b58\u8005_\u81ea\u52a8\u5347\u7ea7\u662f\u5426\u5f00\u542f": 0, 
+        "\u5e78\u5b58\u8005_\u81ea\u52a8\u5347\u7ea7\u662f\u5426\u5f00\u542f_2": 0
     }
 }
